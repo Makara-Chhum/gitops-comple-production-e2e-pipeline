@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: complete-production-e2e-pipeline
-        image: makaraksk/complete-production-e2e-pipeline:1.0.0-61
+        image: makaraksk/complete-production-e2e-pipeline:1.0.0-62
         ports:
         - containerPort: 8080
         # env:
